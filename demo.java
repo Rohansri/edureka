@@ -24,6 +24,6 @@ var
 vmlinuz
 vmlinuz.old
 
-Rohan to show you git diff
+Rohan to show you git diff fast and furioius
 :wq
 
