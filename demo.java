@@ -23,3 +23,7 @@ usr
 var
 vmlinuz
 vmlinuz.old
+
+Rohan to show you git diff
+:wq
+
